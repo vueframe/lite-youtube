@@ -1,24 +1,25 @@
 {
-  "name": "lite-youtube-embed",
-  "version": "0.3.3",
-  "description": "A faster youtube embed.",
+  "name": "@vueframe/lite-youtube",
+  "version": "1.0.0",
+  "description": "@vueframe/lite-youtube",
   "license": "Apache-2.0",
-  "main": "src/lite-yt-embed.js",
-  "style": "src/lite-yt-embed.css",
+  "main": "src/lite-youtube.min.js",
+  "style": "src/lite-youtube.min.css",
+  "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paulirish/lite-youtube-embed.git"
+    "url": "git+https://github.com/vueframe/lite-youtube.git"
   },
   "keywords": [
     "youtube",
     "custom element",
     "web component"
   ],
-  "author": "Paul Irish",
+  "author": "vueframe",
   "bugs": {
-    "url": "https://github.com/paulirish/lite-youtube-embed/issues"
+    "url": "https://github.com/vueframe/lite-youtube/issues"
   },
-  "homepage": "https://github.com/paulirish/lite-youtube-embed#readme",
+  "homepage": "https://github.com/vueframe/lite-youtube#readme",
   "readme": "readme.md",
   "files": [
     "src/**",
