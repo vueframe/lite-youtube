@@ -5,7 +5,6 @@
   "license": "Apache-2.0",
   "main": "src/lite-youtube.min.js",
   "style": "src/lite-youtube.min.css",
-  "private": "false",
   "type": "module",
   "repository": {
     "type": "git",
