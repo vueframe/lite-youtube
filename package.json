@@ -22,7 +22,8 @@
   "homepage": "https://github.com/vueframe/lite-youtube#readme",
   "readme": "readme.md",
   "files": [
-    "src/**",
+    "src/lite-youtube.min.js",
+    "src/lite-youtube.min.css",
     "package.json",
     "package-lock.json",
     "readme.md"
