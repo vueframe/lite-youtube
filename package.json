@@ -1,27 +1,27 @@
 {
   "name": "@vueframe/lite-youtube",
-  "version": "1.0.4",
+  "version": "3.0.0",
   "description": "@vueframe/lite-youtube",
-  "license": "Apache-2.0",
-  "main": "dist/lite-youtube.min.js",
   "type": "module",
+  "main": "dist/lite-youtube.min.js",
+  "files": [
+    "dist/lite-youtube.min.js",
+    "readme.md"
+  ],
+  "author": "vueframe",
+  "license": "Apache-2.0",
+  "readme": "readme.md",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vueframe/lite-youtube.git"
   },
-  "keywords": [
-    "youtube",
-    "vueframe"
-  ],
-  "author": "vueframe",
   "bugs": {
     "url": "https://github.com/vueframe/lite-youtube/issues"
   },
   "homepage": "https://github.com/vueframe/lite-youtube#readme",
-  "readme": "readme.md",
-  "files": [
-    "dist/lite-youtube.min.js",
-    "readme.md"
+    "keywords": [
+    "youtube",
+    "vueframe"
   ],
   "publishConfig": {
     "access": "public"
