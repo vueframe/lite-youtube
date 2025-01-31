@@ -22,8 +22,6 @@
   "readme": "readme.md",
   "files": [
     "dist/lite-youtube.min.js",
-    "package.json",
-    "package-lock.json",
     "readme.md"
   ],
   "publishConfig": {
