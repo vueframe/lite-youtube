@@ -3,7 +3,7 @@
   "version": "1.0.4",
   "description": "@vueframe/lite-youtube",
   "license": "Apache-2.0",
-  "main": "src/lite-youtube.min.js",
+  "main": "dist/lite-youtube.min.js",
   "type": "module",
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/vueframe/lite-youtube#readme",
   "readme": "readme.md",
   "files": [
-    "src/lite-youtube.min.js",
+    "dist/lite-youtube.min.js",
     "package.json",
     "package-lock.json",
     "readme.md"
