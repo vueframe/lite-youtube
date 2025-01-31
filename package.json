@@ -1,6 +1,6 @@
 {
   "name": "@vueframe/lite-youtube",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "@vueframe/lite-youtube",
   "license": "Apache-2.0",
   "main": "src/lite-youtube.min.js",
