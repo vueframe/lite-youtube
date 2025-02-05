@@ -1,6 +1,6 @@
 {
   "name": "@vueframe/lite-youtube",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "@vueframe/lite-youtube",
   "type": "module",
   "main": "dist/lite-youtube.min.js",
@@ -19,7 +19,7 @@
     "url": "https://github.com/vueframe/lite-youtube/issues"
   },
   "homepage": "https://github.com/vueframe/lite-youtube#readme",
-    "keywords": [
+  "keywords": [
     "youtube",
     "vueframe"
   ],
