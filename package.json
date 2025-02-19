@@ -1,6 +1,6 @@
 {
   "name": "@vueframe/lite-youtube",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "description": "@vueframe/lite-youtube",
   "type": "module",
   "main": "dist/lite-youtube.min.js",
