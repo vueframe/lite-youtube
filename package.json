@@ -4,8 +4,9 @@
   "description": "@vueframe/lite-youtube",
   "type": "module",
   "main": "dist/lite-youtube.min.js",
+  "css": "dist/lite-youtube.min.css",
   "files": [
-    "dist/lite-youtube.min.js",
+    "dist/",
     "readme.md"
   ],
   "author": "vueframe",
